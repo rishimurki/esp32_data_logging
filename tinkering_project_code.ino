@@ -18,8 +18,8 @@
 // setting up lcd address , number of rows and columns
 LiquidCrystal_I2C lcd(0x27, 16, 2);
 
-const char* ssid     = "CHENAB";
-const char* password = "44zMf3QqdU&KC3Mv";
+const char* ssid     = "YOUR_SSID";
+const char* password = "YOUR_PASSWORD";
 const char* ntpServer = "pool.ntp.org";
 const long  gmtOffset = 19800; // GMT offset in seconds (5:30 hours)
 
