@@ -63,6 +63,6 @@ Make sure you have the necessary hardware components connected and powered appro
 
 5. **Official Arduino Website**: The official Arduino website provides a wealth of information, tutorials, and examples that can help you with various aspects of your project. You can explore their website at [Arduino](https://www.arduino.cc/).
 
-6. **Online Forums and Communities**: Online forums and communities such as the Arduino Forum and ESP32 Community Forum are great places to seek help, ask questions, and share your project progress. You can find these forums at [Arduino Forum](https://forum.arduino.cc/) and [ESP32 Community Forum](https://esp32.com/).
+6. **Online Forums & Communities**: Online forums and communities such as the Arduino Forum and ESP32 Community Forum are great places to seek help, ask questions, and share your project progress. You can find these forums at [Arduino Forum](https://forum.arduino.cc/) and [ESP32 Community Forum](https://esp32.com/).
 
 
